@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dalienst Owino
-- 👀 I’m interested in developing softwares alongside making money
+- 👀 I’m the Nerd Bug
 - 📫 How to reach me: Email: oduordalienst@gmail.com, Phone call/WhatsApp: +254710584581
 
 <!---
