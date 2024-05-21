@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dalienst Owino
-- 👀 I’m the Nerd Bug
+- 👋 Hi, I’m Dalienst Owino Oduor
+- 👀 Just an innovative lad trying to find his way through technology.
 - 📫 How to reach me: Email: oduordalienst@gmail.com, Phone call/WhatsApp: +254710584581
 
 <!---
