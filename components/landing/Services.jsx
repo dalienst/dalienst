@@ -5,7 +5,7 @@ import React from "react";
 function Services() {
   return (
     <div className="container-fluid px-3 py-3">
-      <div className="py-5 services-bg px-5 text-white rounded-3">
+      <div className="py-5 services-bg px-4 text-white rounded-3">
         <section className="mb-3 d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center">
           <div>
             <h1>My Service</h1>
