@@ -96,3 +96,27 @@ body {
 .works-bg {
   background-color: #fff;
 }
+
+.work-description {
+  font-size: 15px;
+  color: #686666;
+}
+
+.footer-btn {
+  background-color: #013819;
+  color: #fff;
+}
+
+.footer-btn:hover {
+  color: #013819;
+  border: #013819 solid 1px;
+}
+
+.footer-text {
+  font-size: smaller;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: var(--creame);
+}
