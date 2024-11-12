@@ -1,5 +1,6 @@
 import About from "@/components/landing/About";
 import Header from "@/components/landing/Header";
+import Services from "@/components/landing/Services";
 import React from "react";
 
 function Home() {
@@ -7,6 +8,7 @@ function Home() {
     <>
       <Header />
       <About />
+      <Services />
     </>
   );
 }

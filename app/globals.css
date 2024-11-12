@@ -70,3 +70,7 @@ body {
 .about-summary {
   color: #013819;
 }
+
+.services-bg {
+  background-color: var(--primary);
+}

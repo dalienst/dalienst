@@ -4,8 +4,8 @@ import React from "react";
 
 function About() {
   return (
-    <div className="container-fluid bg-white">
-      <div className="container py-5">
+    <div className="container-fluid bg-white px-3">
+      <div className=" py-5">
         <div className="row py-3">
           <div className="col-md-6 col-sm-12 mb-3">
             <p className="text-uppercase fw-bold text-secondary mb-0">About</p>
