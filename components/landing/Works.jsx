@@ -32,21 +32,26 @@ function Works() {
 
         <div>
           {works?.map((work, index) => (
-            <div className="row py-2 align-items-center border-bottom mb-3" key={work?.id}>
+            <div
+              className="row py-2 align-items-center border-bottom mb-3"
+              key={work?.id}
+            >
               <div
                 className={`col-md-6 col-sm-12 d-flex flex-column justify-content-center ${
                   index % 2 === 0 ? "order-md-1" : "order-md-2"
                 }`}
               >
                 {/* Button is now wrapped in a div to avoid taking full width */}
-                <div className="mb-2">
+                <div className="mb-5">
                   <button className="border rounded-pill btn btn-sm">
                     {work?.tag}
                   </button>
                 </div>
 
-                <h5 className="work-title">{work?.title}</h5>
-                <p className="work-description">{work?.description}</p>
+                <div>
+                  <h5 className="work-title">{work?.title}</h5>
+                  <p className="work-description">{work?.description}</p>
+                </div>
               </div>
 
               <div
