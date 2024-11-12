@@ -1,0 +1,139 @@
+:root {
+  --primary: #013819;
+  --secondary: #01461f;
+  --creame: #ebd5b3;
+  --background: #f9f9f6
+}
+
+html,
+
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--background);
+}
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--primary);
+  /* Uses the primary color */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: color 0.3s ease;
+}
+
+.navbar-logo:hover {
+  color: var(--secondary);
+  /* Slight color change on hover for emphasis */
+  text-decoration: none;
+  /* Removes underline on hover */
+}
+
+.header-title {
+  color: var(--primary);
+}
+
+.primary-btn {
+  background-color: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.primary-btn:hover {
+  color: var(--primary);
+  border: var(--primary) solid 1px;
+}
+
+.secondary-btn {
+  color: var(--primary);
+  border: #013819 solid 1px;
+  cursor: pointer;
+}
+
+.secondary-btn:hover {
+  background-color: #013819;
+  color: #fff;
+}
+
+.about-heading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: start;
+  color: var(--primary);
+}
+
+.about-text {
+  font-size: 1.0rem;
+  font-weight: 400;
+  text-align: start;
+  line-height: 1.5;
+}
+
+.about-icon {
+  color: var(--primary);
+}
+
+.about-summary {
+  color: #013819;
+}
+
+.services-bg {
+  background-color: var(--primary);
+}
+
+.service-card {
+  background-color: var(--secondary);
+}
+
+.service-icon {
+  color: var(--creame);
+  font-size: 20px;
+}
+
+.service-title {
+  color: #fff;
+}
+
+.service-description {
+  color: #c7c4c4;
+  font-size: 14px;
+}
+
+.works-bg {
+  background-color: #fff;
+}
+
+.work-description {
+  font-size: 15px;
+  color: #686666;
+}
+
+.footer-btn {
+  background-color: #013819;
+  color: #fff;
+}
+
+.footer-btn:hover {
+  color: #013819;
+  border: #013819 solid 1px;
+}
+
+.footer-text {
+  font-size: smaller;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: var(--creame);
+}
