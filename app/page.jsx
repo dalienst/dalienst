@@ -1,7 +1,12 @@
+import Header from "@/components/landing/Header";
 import React from "react";
 
 function Home() {
-  return <div className="text-danger">Home</div>;
+  return (
+    <>
+    <Header />
+    </>
+  );
 }
 
 export default Home;

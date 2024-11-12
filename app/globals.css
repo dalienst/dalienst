@@ -18,3 +18,32 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.header-title {
+  color: var(--primary);
+}
+
+.primary-btn {
+  background-color: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.primary-btn:hover {
+  color: var(--primary);
+  border: var(--primary) solid 1px;
+}
+
+.secondary-btn {
+  color: var(--primary);
+  border: #013819 solid 1px;
+  cursor: pointer;
+}
+
+.secondary-btn:hover {
+  background-color: #013819;
+  color: #fff;
+}
