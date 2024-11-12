@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
@@ -9,7 +10,10 @@ function Header() {
         <div className="container">
           <h1 className="text-center header-title">Dalienst Owino Oduor</h1>
 
-          <p className="text-center header-description mt-4">
+          <p
+            className="header-description text-center mt-4 mx-auto"
+            style={{ maxWidth: "600px" }}
+          >
             Offering strategic business consulting, digital transformation
             expertise, and technology solutions to drive growth, efficiency, and
             innovation. Integrating technology and modern software to empower
@@ -33,6 +37,19 @@ function Header() {
           </div>
         </div>
       </div>
+
+      {/* <div className="px-4 rounded">
+        <Image
+          src="/coding.jpg"
+          alt="Dalienst Oduor"
+          layout="responsive"
+          width={1920}
+          height={500}
+          style={{
+            width: "100%",
+          }}
+        />
+      </div> */}
     </>
   );
 }
