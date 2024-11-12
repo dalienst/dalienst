@@ -6,9 +6,9 @@ import React from "react";
 function Header() {
   return (
     <>
-      <div className="container-fluid py-5">
+      <div className="container-fluid py-5 border-bottom">
         <div className="container">
-          <h1 className="text-center header-title">Dalienst Owino Oduor</h1>
+          <h1 className="text-center fw-bold header-title">Dalienst Owino Oduor</h1>
 
           <p
             className="header-description text-center mt-4 mx-auto"
@@ -37,19 +37,6 @@ function Header() {
           </div>
         </div>
       </div>
-
-      {/* <div className="px-4 rounded">
-        <Image
-          src="/coding.jpg"
-          alt="Dalienst Oduor"
-          layout="responsive"
-          width={1920}
-          height={500}
-          style={{
-            width: "100%",
-          }}
-        />
-      </div> */}
     </>
   );
 }
