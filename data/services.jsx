@@ -9,7 +9,7 @@ const services = [
     id: 2,
     title: "Artificial Intelligence Development",
     description:
-      "Leveraging AI technologies to build intelligent systems that enhance automation, decision-making, and user experiences.",
+      "Leveraging AI to build intelligent systems that enhance automation, decision-making, and user experiences.",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const services = [
     id: 4,
     title: "Business Strategy and Management",
     description:
-      "Guiding businesses through growth strategies, process optimization, and efficient management to achieve long-term success.",
+      "Guiding businesses through growth strategies, process optimization, and efficient management.",
   },
   {
     id: 5,

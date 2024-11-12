@@ -74,3 +74,21 @@ body {
 .services-bg {
   background-color: var(--primary);
 }
+
+.service-card {
+  background-color: var(--secondary);
+}
+
+.service-icon {
+  color: var(--creame);
+  font-size: 20px;
+}
+
+.service-title {
+  color: #fff;
+}
+
+.service-description{
+  color: #c7c4c4;
+  font-size: 14px;
+}
