@@ -7,9 +7,9 @@ function Navbar() {
   const pathName = usePathname();
   return (
     <>
-      <nav className="navbar navbar-expand-md bg-white">
+      <nav className="navbar navbar-expand-md bg-white sticky-top border-bottom">
         <div className="container-fluid">
-          <Link href="/" className="navbar-brand">
+          <Link href="/" className="navbar-brand navbar-logo">
             Dalienst Oduor
           </Link>
 
