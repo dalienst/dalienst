@@ -3,15 +3,14 @@
 <img src="https://res.cloudinary.com/devowino/image/upload/v1716403702/me_pjdmbx.jpg" alt="Your Image" style="float: right; width: 150px; margin-left: 20px; border-radius: 50%; height: 150px; object-fit: cover;" />
 
 P.O Box 10541-80101, Mombasa, Kenya  
-+254710584581  
++254 740 964 423  
 [oduordalienst@gmail.com](mailto:oduordalienst@gmail.com)  
-[Personal Website](https://www.dalienst.co.ke/)  
+[www.dalienst.co.ke](https://www.dalienst.co.ke/)  
 [Github: @dalienst](https://github.com/dalienst)  
-[LinkedIn: dalienst-oduor](https://www.linkedin.com/in/dalienst-oduor/)
 
 ## Professional Summary
 
-Experienced Full Stack Developer and Machine Learning Engineer with 3+ years of hands-on experience building efficient, scalable applications. Known for delivering robust front-end and back-end solutions that enhance user experience and operational efficiency. Eager to bring a deep understanding of tech-driven solutions and organizational processes to contribute to growth in dynamic environments.
+Experienced Full Stack Developer and Machine Learning Engineer with 2+ years of hands-on experience building efficient, scalable applications. Known for delivering robust front-end and back-end solutions that enhance user experience and operational efficiency. Eager to bring a deep understanding of tech-driven solutions and organizational processes to contribute to growth in dynamic environments.
 
 ## Skills
 
@@ -37,7 +36,7 @@ Experienced Full Stack Developer and Machine Learning Engineer with 3+ years of 
 
 - Python
 - Django REST Framework
-- NodeJS
+- FastAPI
 
 **DevOps:**
 
@@ -74,7 +73,7 @@ Experienced Full Stack Developer and Machine Learning Engineer with 3+ years of 
 - Designed front-end interfaces using Figma, enhancing user experience.
 - Implemented front-end designs using NextJS.
 - Deployed the company web application on Railway for the API and Vercel for the front-end.
-- Enhanced team collaboration on version control, creating streamlined workflows..
+- Enhanced team collaboration on version control, creating streamlined workflows.
 
 ### Close The Gap - Circular Economy Hub  
 
@@ -108,11 +107,11 @@ Experienced Full Stack Developer and Machine Learning Engineer with 3+ years of 
 
 ## Projects
 
-### [Malipo Application](https://malipo.vercel.app)
+### [BookStream Application](https://github.com/dalienst/bookstream-api)
 
-- Targeting 200+ active users in the first quarter with features supporting business and task management.
+- Targeting 200+ active users in the first quarter with features supporting farmers and agricultural activities.
 
-- **Technologies:** Postgres, Python, JavaScript, Django REST Framework, ReactJS, NextJS, GCP - App Engine, and Railway.
+- **Technologies:** Postgres, Python, JavaScript, Django REST Framework, ReactJS, NextJS, and Railway.
 
 ### LegioConnect - client project
 
