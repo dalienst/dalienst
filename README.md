@@ -1,148 +1,184 @@
-# Dalienst Owino Oduor
+# **Dalienst Owino Oduor**  
 
-<img src="https://res.cloudinary.com/devowino/image/upload/v1716403702/me_pjdmbx.jpg" alt="Your Image" style="float: right; width: 150px; margin-left: 20px; border-radius: 50%; height: 150px; object-fit: cover;" />
+📍 P.O Box 10541-80101, Mombasa, Kenya  
+📞 +254 740 964 423  
+✉️ [oduordalienst@gmail.com](mailto:oduordalienst@gmail.com)  
+🌍 [www.dalienst.co.ke](https://www.dalienst.co.ke/)  
+🐱 [GitHub: @dalienst](https://github.com/dalienst)  
+🔗 [LinkedIn: @dalienst-oduor](https://www.linkedin.com/in/dalienst-oduor-877a21203/)  
 
-P.O Box 10541-80101, Mombasa, Kenya  
-+254 740 964 423  
-[oduordalienst@gmail.com](mailto:oduordalienst@gmail.com)  
-[www.dalienst.co.ke](https://www.dalienst.co.ke/)  
-[Github: @dalienst](https://github.com/dalienst)  
+---
 
-## Professional Summary
+## **Professional Summary**  
 
-Experienced Full Stack Developer and Machine Learning Engineer with 2+ years of hands-on experience building efficient, scalable applications. Known for delivering robust front-end and back-end solutions that enhance user experience and operational efficiency. Eager to bring a deep understanding of tech-driven solutions and organizational processes to contribute to growth in dynamic environments.
+Full Stack Engineer, Machine Learning Engineer, and IT Consultant with expertise in **Django REST Framework, React.js, Next.js, PostgreSQL, and DevOps**. Experienced in **building scalable web and mobile applications**, developing **secure and high-performance backend systems**, and implementing **digital marketing strategies**. Passionate about leveraging technology to **solve real-world problems, optimize business processes, and enhance user experiences**.
 
-## Skills
+---
 
-### Programming Languages
+## **Skills**  
 
-- **Python** (Advanced)
-- **JavaScript** (Advanced)
-- **SQL** (Advanced)
+### **Programming Languages**  
 
-### Frameworks and Tools
+- **Python** (Advanced)  
+- **JavaScript** (Advanced)  
+- **SQL** (Advanced)  
 
-**Frontend:**
+### **Backend Development**  
 
-- ReactJS
-- NextJS
-- React Native
-- Material UI
-- Bootstrap
-- Tailwind CSS
-- NativeWind
+- Django & Django REST Framework (DRF)  
+- FastAPI  
+- PostgreSQL, MySQL  
+- RESTful API Development  
+- Authentication & Authorization (JWT, OAuth2)  
+- Caching & Performance Optimization  
 
-**Backend:**
+### **Frontend Development**  
 
-- Python
-- Django REST Framework
-- FastAPI
+- ReactJS, Next.js, React Native  
+- Tailwind CSS, Material UI, Bootstrap  
 
-**DevOps:**
+### **DevOps & Deployment**  
 
-- GitHub
-- Google Cloud Platform (App Engine)
-- CI/CD
-- Railway
-- Render
-- Vercel
+- Docker & Containerization  
+- CI/CD Pipelines (GitHub Actions, Railway, Render)  
+- Cloud Platforms (Google Cloud, Vercel, Railway)  
 
-**Other:**
+### **Additional Skills**  
 
-- CSS, HTML, SASS, Database Management
+- IT Technical Support & Networking  
+- Digital Marketing (SEO, Content Creation, Social Media)  
+- Web Security & Best Practices  
+- Payment Integrations (M-Pesa, Pesapal, Mastercard)  
+- Business Development & CRM  
 
-### Additional Skills
+---
 
-- Web development
-- Software installation and management
-- Windows OS, Google Workspace, Microsoft Office
-- Computer hardware and network setup
-- Digital marketing
-- Blogging
-- Podcasting
+## **Experience**  
 
-## Experience
+### **Corban Technologies** *(Founder & Lead Engineer)*  
 
-### Studio Nomak  
+📅 *July 2024 - Present* *(Remote - Kenya)*  
 
-**Software Engineer**  
-*April 2023*
+- Designed and developed **scalable backend systems** using Django and DRF.  
+- Built and deployed **secure RESTful APIs** for fintech, logistics, and enterprise applications.  
+- Integrated **payment gateways** (M-Pesa, Pesapal) into e-commerce and service platforms.  
+- Implemented **authentication systems** (JWT, OAuth2) for enhanced security.  
+- Optimized database performance using **PostgreSQL indexing and caching**.  
 
-- Developed and maintaining back-end APIs with Django REST Framework.
-- Increased API efficiency by 15% through optimized PostgreSQL queries.
-- Designed front-end interfaces using Figma, enhancing user experience.
-- Implemented front-end designs using NextJS.
-- Deployed the company web application on Railway for the API and Vercel for the front-end.
-- Enhanced team collaboration on version control, creating streamlined workflows.
+**Key Achievements:**  
+✅ Built a **payment gateway MVP** integrating M-Pesa and card payments.  
+✅ Developed an **inventory management system** with barcode and QR code support.  
+✅ Designed and deployed a **logistics API** for real-time tracking and route optimization.  
 
-### Close The Gap - Circular Economy Hub  
+---
 
-**Network Technician - Internship**  
-*June 2023 - September 2023 (Mombasa)*
+### **LegioConnect App** *(Full Stack Engineer)*  
 
-- Refurbished over 100 electronic devices, restoring them to optimal working conditions.
-- Configured secure network infrastructures, improving reliability and stability.
-- Installed and set up operating systems (Windows and Ubuntu) on multiple devices.
+📅 *July 2024 - February 2025* *(Contract - Client Project)*  
 
-### SkaeHub Technologies  
+- Built a **mobile application** using **React Native and Expo**.  
+- Developed a robust **backend API with Django REST Framework**.  
+- Deployed the API on **Railway** for reliable and scalable backend operations.  
+- Published the app to the **Google Play Store (Closed Testing)**.  
+- Developed an **admin panel using Next.js** for managing operations.  
 
-**Backend Engineer**  
-*April 2022 - December 2022 (Nairobi)*
+**Key Achievement:** Improved **community engagement** for **LegioMaria members**, enhancing communication and event coordination.  
 
-- Developed scalable APIs using Django REST Framework, reducing response times by 40%.
-- Implemented robust data validation strategies, enhancing database reliability.
-- Collaborated with cross-functional teams to improve data management, increasing efficiency.
+---
 
-## Education
+### **Learn with Mr.PC** *(Full Stack Engineer)*  
 
-### South Eastern Kenya University  
+📅 *September 2024 - January 2025* *(Contract - Client Project)*  
 
-**Bachelor of Science in Computer Science**  
-*August 2020 - April 2024*  
+- Developed a **Next.js frontend** for showcasing courses.  
+- Built the **API using Django REST Framework (DRF)** for course management.  
+- Deployed the API on **Railway** for fast and reliable service.  
+- Implemented **email notifications** for course bookings.  
+- Created an **admin panel** for managing courses and bookings.  
 
-### Maranda High School  
+**Key Achievement:** Improved **user experience and admin efficiency** for course management.  
 
-**Kenya Certificate of Secondary Education**  
-*February 2016 - November 2019*
+---
 
-## Projects
+### **Close The Gap - Circular Economy Hub** *(IT Support & Network Technician Intern)*  
 
-### [BookStream Application](https://github.com/dalienst/bookstream-api)
+📅 *June 2023 - September 2023 (Mombasa)*  
 
-- Targeting 200+ active users in the first quarter with features supporting farmers and agricultural activities.
+- Provided **technical support** for IT infrastructure.  
+- Installed and maintained **Windows & Linux operating systems**.  
+- Configured **network infrastructures** for secure connectivity.  
+- Assisted in deploying IT equipment to **schools and businesses**.  
 
-- **Technologies:** Postgres, Python, JavaScript, Django REST Framework, ReactJS, NextJS, and Railway.
+**Key Achievement:** Strengthened **network reliability** and improved **digital accessibility** for educational institutions.  
 
-### LegioConnect - client project
+---
 
-- Facilitated community engagement for LegioMaria members
-- **Technologies:** React Native Expo, Django REST Framework, NativeWind, Railway
+### **Freelance IT & Digital Marketing Support** *(Consultant | Web Developer | Digital Marketer)*  
 
-### [Carbon Footprint Tracker](https://github.com/dalienst/knowmycarbonfootprint)
+📅 *2023 - Present*  
 
-- Built a machine learning model for carbon footprint analysis, raising environmental awareness among users.
-- **Technologies:** Python, Pandas, Numpy, Scikit-learn.
+- Developed and maintained **websites** for businesses.  
+- Provided **technical support** and troubleshooting.  
+- Created and executed **social media and digital marketing campaigns**.  
+- Assisted clients with **SEO, Google Ads, and Facebook Ads**.  
 
-## Volunteer Experience
+---
 
-### Close The Gap
+## **Projects**  
 
-- Implemented network infrastructure and deployed devices in Murang’a County schools, improving communication and learning for over 500 students.
+### **Nafsi Reset (Co-founder & CTO)**  
 
-## Hobbies
+- Developed a **Next.js website** for therapy services.  
+- Built a **secure admin portal** for therapists.  
+- Deployed the **API on Vercel** using PostgreSQL.  
+- Launched the platform to support **100+ therapy sessions per quarter**.  
 
-- Podcasting
-- Traveling
-- Swimming
+### **Payment Gateway API** *(Django, DRF, PostgreSQL)*  
 
-## References
+- Built a **payment gateway MVP** supporting **M-Pesa, card payments, and digital wallets**.  
+- Designed a **merchant API** for seamless business integration.  
 
-### Lewis Maina
+### **Logistics Management System** *(Django, DRF, PostgreSQL, Next.js)*  
 
-- Email: [muriukimainalewis@gmail.com](mailto:muriukimainalewis@gmail.com)
-- Phone: +254 714 308029
+- Developed an **API for real-time tracking, route optimization, and inventory management**.  
+- Integrated **QR code scanning** for tracking products across warehouses.  
+- Designed an **admin dashboard** for managing fleet operations.  
 
-### Norman Muisyo
+---
 
-- Email: [norman@closethegap.org](mailto:norman@closethegap.org)
-- Phone: +254 700 806041, +254 706 271653
+## **Ongoing Initiatives**  
+
+### [Machine Learning Weekly Program](https://github.com/dalienst/machine-learning-weekly) *(Machine Learning Engineer)*  
+
+- Implementing **weekly ML projects** with Scikit-learn, TensorFlow, and Keras.  
+- Working on **Computer Vision** (image classification, object detection).  
+- Exploring **NLP applications** (sentiment analysis, text generation).  
+
+---
+
+## **Education**  
+
+### **South Eastern Kenya University**  
+
+🎓 **Bachelor of Science in Computer Science**  
+
+### **Maranda High School**  
+
+🎓 **Kenya Certificate of Secondary Education**  
+
+---
+
+## **Certifications & Training**  
+
+- **Networking Essentials - Cisco NetAcad**  
+- **Google Digital Marketing & E-commerce** *(In Progress)*  
+- **Google Hustle Academy - HubSpot Academy**  
+
+---
+
+## **Hobbies & Interests**  
+
+✔️ Podcasting & Blogging  
+✔️ Tech & Business Trends  
+✔️ Traveling & Photography  
+✔️ Driving  
