@@ -2,17 +2,15 @@
   --primary: #013819;
   --secondary: #01461f;
   --creame: #ebd5b3;
-  --background: #f9f9f6
+  --background: #f9f9f6;
 }
 
 html,
-
 body {
   max-width: 100vw;
   overflow-x: hidden;
   background-color: var(--background);
 }
-
 
 * {
   box-sizing: border-box;
@@ -24,7 +22,6 @@ body {
   font-size: 1.5rem;
   font-weight: bold;
   color: var(--primary);
-  /* Uses the primary color */
   text-transform: uppercase;
   letter-spacing: 1px;
   transition: color 0.3s ease;
@@ -32,9 +29,7 @@ body {
 
 .navbar-logo:hover {
   color: var(--secondary);
-  /* Slight color change on hover for emphasis */
   text-decoration: none;
-  /* Removes underline on hover */
 }
 
 .header-title {
@@ -48,21 +43,24 @@ body {
   border-radius: 5px;
   cursor: pointer;
   font-size: 15px;
+  transition: all 0.3s ease;
 }
 
 .primary-btn:hover {
+  background-color: transparent;
   color: var(--primary);
   border: var(--primary) solid 1px;
 }
 
 .secondary-btn {
   color: var(--primary);
-  border: #013819 solid 1px;
+  border: var(--primary) solid 1px;
   cursor: pointer;
+  transition: all 0.3s ease;
 }
 
 .secondary-btn:hover {
-  background-color: #013819;
+  background-color: var(--primary);
   color: #fff;
 }
 
@@ -74,7 +72,7 @@ body {
 }
 
 .about-text {
-  font-size: 1.0rem;
+  font-size: 1rem;
   font-weight: 400;
   text-align: start;
   line-height: 1.5;
@@ -85,29 +83,43 @@ body {
 }
 
 .about-summary {
-  color: #013819;
+  color: var(--primary);
 }
 
 .services-bg {
-  background-color: var(--primary);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+  transition: all 0.3s ease;
+  border-radius: 0.5rem;
 }
 
 .service-card {
   background-color: var(--secondary);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: none;
+  border-radius: 0.5rem;
+}
+
+.service-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1) !important;
 }
 
 .service-icon {
   color: var(--creame);
-  font-size: 20px;
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .service-title {
   color: #fff;
+  font-size: 1.25rem;
+  font-weight: bold;
 }
 
 .service-description {
   color: #c7c4c4;
-  font-size: 14px;
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 .works-bg {
@@ -120,13 +132,15 @@ body {
 }
 
 .footer-btn {
-  background-color: #013819;
+  background-color: var(--primary);
   color: #fff;
+  transition: all 0.3s ease;
 }
 
 .footer-btn:hover {
-  color: #013819;
-  border: #013819 solid 1px;
+  background-color: transparent;
+  color: var(--primary);
+  border: var(--primary) solid 1px;
 }
 
 .footer-text {
