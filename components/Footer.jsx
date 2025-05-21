@@ -10,6 +10,26 @@ const menu = [
     title: "Home",
     link: "/",
   },
+  {
+    id: 2,
+    title: "About",
+    link: "/#about",
+  },
+  {
+    id: 3,
+    title: "Services",
+    link: "/#services",
+  },
+  {
+    id: 4,
+    title: "Works",
+    link: "/#works",
+  },
+  {
+    id: 5,
+    title: "Contact",
+    link: "/#contact",
+  },
 ];
 
 const socials = [
@@ -36,7 +56,7 @@ const socials = [
 function Footer() {
   return (
     <>
-      <div className="container-fluid px-3 py-3">
+      <div className="container-fluid px-3 py-3" id="footer">
         <div className="py-3 services-bg px-3 text-white rounded-3">
           <div className="bg-white rounded py-5">
             <div className="container mx-auto">

@@ -40,6 +40,59 @@ function Navbar() {
                   Home
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link
+                  href="/#about"
+                  className={`${
+                    pathName === "/#about"
+                      ? "nav-link active text-secondary"
+                      : "nav-link text-dark"
+                  }`}
+                  aria-label="About"
+                >
+                  About
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  href="/#services"
+                  className={`${
+                    pathName === "/#services"
+                      ? "nav-link active text-secondary"
+                      : "nav-link text-dark"
+                  }`}
+                  aria-label="Services"
+                >
+                  Services
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  href="/#works"
+                  className={`${
+                    pathName === "/#works"
+                      ? "nav-link active text-secondary"
+                      : "nav-link text-dark"
+                  }`}
+                  aria-label="Works"
+                >
+                  Works
+                </Link>
+              </li>
+
+              <li className="nav-item">
+                <Link
+                  href="/#footer"
+                  className={`${
+                    pathName === "/#footer"
+                      ? "nav-link active text-secondary"
+                      : "nav-link text-dark"
+                  }`}
+                  aria-label="Contact"
+                >
+                  Contact
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
