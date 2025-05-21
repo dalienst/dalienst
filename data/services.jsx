@@ -14,7 +14,7 @@ const services = [
       "Scalable APIs with Django REST Framework",
       "Ongoing maintenance and feature updates",
     ],
-    relatedProjects: [1, 2, 7],
+    relatedProjects: [1, 2, 3],
   },
   {
     id: 2,
@@ -31,7 +31,7 @@ const services = [
       "Integration with existing systems for real-time insights",
       "Model optimization for faster inference",
     ],
-    relatedProjects: [3],
+    relatedProjects: [1],
   },
   {
     id: 3,
@@ -48,7 +48,7 @@ const services = [
       "Analytics-driven marketing insights",
       "Website audits for improved user engagement",
     ],
-    relatedProjects: [4],
+    relatedProjects: [1],
   },
   {
     id: 4,
@@ -65,7 +65,7 @@ const services = [
       "Leadership training and team alignment workshops",
       "Financial forecasting and KPI tracking",
     ],
-    relatedProjects: [5],
+    relatedProjects: [1],
   },
   {
     id: 5,
@@ -76,13 +76,11 @@ const services = [
     icon: "bi-plug",
     tags: ["APIs", "Integrations", "Database"],
     whatWeOffer: [
-      // "Integration with CRMs like Salesforce or HubSpot",
       "Custom API development with DRF for secure data exchange",
       "Database optimization for low-latency queries",
       "Payment gateway integrations (e.g., Pesapal, M-pesa)",
-      // "Automated workflows with tools like Zapier",
     ],
-    relatedProjects: [1, 6],
+    relatedProjects: [1, 2, 3],
   },
   // {
   //   id: 6,
@@ -116,7 +114,7 @@ const services = [
       "Infrastructure-as-code with Terraform",
       "24/7 cloud monitoring and support",
     ],
-    relatedProjects: [8],
+    relatedProjects: [1, 2, 3],
   },
 ];
 
