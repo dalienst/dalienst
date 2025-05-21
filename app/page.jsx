@@ -10,7 +10,7 @@ function Home() {
       <Header />
       <About />
       <Services />
-      {/* <Works /> */}
+      <Works />
     </>
   );
 }
