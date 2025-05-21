@@ -24,7 +24,7 @@ const works = [
       "Ensured 100% compliance with data protection for client confidentiality",
       "Boosted online traffic by 25% through Google My Business and email campaigns",
     ],
-    category: "Technology",
+    category: "Healthcare & Technology",
     status: "Continuous Development",
   },
   {
@@ -52,7 +52,7 @@ const works = [
       "Deployed scalable API on Railway, supporting 99.9% uptime",
       "In Closed Testing on Google Play Store, with 20+ user feedback cycles",
     ],
-    category: "Technology",
+    category: "Social Technology",
     status: "Closed Testing",
     date: "In Progress",
   },
@@ -78,7 +78,7 @@ const works = [
       "Achieved 20% faster course loading with DRF API",
       "Deployed on Railway with 99.8% uptime",
     ],
-    category: "Technology",
+    category: "Education Technology",
     status: "Maintenance",
   },
 ];
